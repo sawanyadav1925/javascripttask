@@ -1,1 +1,5 @@
-const myList =["Chocolate Bar",15,"java",9,]
+function reusableFunction(){
+    console.log("Hi World")
+    }
+
+    reusableFunction(); 
