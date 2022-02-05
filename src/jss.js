@@ -1,4 +1,5 @@
 // Setup
-const myArray = [["John", 23], ["cat", 2]];
+const myArray = [["John", 23], ["dog", 3]];;
+
 // Only change code below this line
-myArray.push(["dog", 3]);
+var removedFromMyArray = myArray.shift();
