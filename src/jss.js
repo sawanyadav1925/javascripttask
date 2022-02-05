@@ -1,3 +1,7 @@
+// Setup
+var a;
+a = 7;
 var b;
-b=8;
+b = a;
 
+// Only change code below this line
