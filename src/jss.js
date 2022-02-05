@@ -1,5 +1,3 @@
-// Setup
-var a;
-a=7;
+var b;
+b=8;
 
-// Only change code below this line
