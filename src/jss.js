@@ -1,1 +1,4 @@
-var a = 9;
+var myFirstName;
+myFirstName = "done";
+var myLastName;
+myLastName= myFirstName;
