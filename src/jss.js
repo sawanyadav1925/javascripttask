@@ -1,3 +1,3 @@
-// Only change code below this line
-const myName = "freeCodeCamp";
-const myStr = "Hello, our name is " + myName + ", how are you?";
+const someAdjective = "awesome!";
+let myStr = "freeCodeCamp is ";
+myStr += someAdjective;
